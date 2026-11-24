@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "offering_policy": {
+    "Fall": {
+      "rule": "odd_semesters",
+      "included_courses": []
+    },
+    "Spring": {
+      "rule": "even_semesters",
+      "included_courses": []
+    },
+    "Summer": {
+      "rule": "all_courses",
+      "excluded_categories": []
+    }
+  }
+}

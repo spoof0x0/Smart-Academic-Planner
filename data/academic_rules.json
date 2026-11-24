@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "credit_hour_limits": {
+    "type": "cumulative_gpa_based",
+    "rules": [
+      {
+        "min_gpa": 0.0,
+        "max_gpa": 2.0,
+        "min_inclusive": true,
+        "max_inclusive": false,
+        "max_credit_hours": 14
+      },
+      {
+        "min_gpa": 2.0,
+        "max_gpa": 3.0,
+        "min_inclusive": true,
+        "max_inclusive": false,
+        "max_credit_hours": 18
+      },
+      {
+        "min_gpa": 3.0,
+        "max_gpa": 4.0,
+        "min_inclusive": true,
+        "max_inclusive": true,
+        "max_credit_hours": 21
+      }
+    ]
+  },
+  "summer_semester": {
+    "max_credit_hours": 6,
+    "course_availability": "depends_on_official_offerings",
+    "mandatory_summer_categories": [
+      "summer"
+    ]
+  },
+  "gpa_calculation": {
+    "repeated_course_policy": "grade_replacement_if_higher",
+    "description": "When a course is retaken for grade improvement, the new grade replaces the previous grade in GPA calculation only if the new grade is higher.",
+    "grading_scale": null,
+    "grade_points_mapping": null
+  },
+  "academic_warnings": {
+    "condition": "cumulative_gpa_below_2.0_at_semester_end",
+    "warning_counting": "cumulative_not_necessarily_consecutive",
+    "dismissal_after_warnings": 6
+  },
+  "graduation_requirements": {
+    "minimum_final_cumulative_gpa": 2.0,
+    "graduation_with_gpa_below_minimum_allowed": false
+  },
+  "unconfirmed_policies": [
+    "Official grading scale and grade-to-points conversion",
+    "Exact GPA calculation formula",
+    "Official treatment of multiple retake attempts",
+    "Whether failed courses count toward semester credit-hour limits",
+    "Other graduation requirements not included in the provided rules"
+  ]
+}

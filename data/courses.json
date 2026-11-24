@@ -1,0 +1,692 @@
+{
+    "schema_version": "1.0",
+    "fixed_courses": [
+        {
+            "code": "BAS010",
+            "name": "Differential Calculus & Algebra",
+            "credit_hours": 3,
+            "semester": 1,
+            "category": "core"
+        },
+        {
+            "code": "BAS011",
+            "name": "Physics of Materials & Electricity",
+            "credit_hours": 3,
+            "semester": 1,
+            "category": "core"
+        },
+        {
+            "code": "BAS012",
+            "name": "Engineering Chemistry",
+            "credit_hours": 3,
+            "semester": 1,
+            "category": "core"
+        },
+        {
+            "code": "BAS013",
+            "name": "Statics",
+            "credit_hours": 3,
+            "semester": 1,
+            "category": "core"
+        },
+        {
+            "code": "MEC010",
+            "name": "Engineering Drawing (1)",
+            "credit_hours": 2,
+            "semester": 1,
+            "category": "core"
+        },
+        {
+            "code": "GEN080",
+            "name": "Foreign Language",
+            "credit_hours": 1,
+            "semester": 1,
+            "category": "core"
+        },
+        {
+            "code": "BAS014",
+            "name": "Integral Calculus & Analytical Geometry",
+            "credit_hours": 3,
+            "semester": 2,
+            "category": "core"
+        },
+        {
+            "code": "BAS015",
+            "name": "Physics of Light, Heat & Magnetism",
+            "credit_hours": 3,
+            "semester": 2,
+            "category": "core"
+        },
+        {
+            "code": "MEC012",
+            "name": "Principles of Manufacturing Engineering",
+            "credit_hours": 2,
+            "semester": 2,
+            "category": "core"
+        },
+        {
+            "code": "BAS016",
+            "name": "Dynamics",
+            "credit_hours": 3,
+            "semester": 2,
+            "category": "core"
+        },
+        {
+            "code": "MEC011",
+            "name": "Engineering Drawing (2)",
+            "credit_hours": 2,
+            "semester": 2,
+            "category": "core"
+        },
+        {
+            "code": "GEN002",
+            "name": "Information Technology & Communications",
+            "credit_hours": 2,
+            "semester": 2,
+            "category": "core"
+        },
+        {
+            "code": "BAS110",
+            "name": "Differential Equations",
+            "credit_hours": 3,
+            "semester": 3,
+            "category": "core"
+        },
+        {
+            "code": "ELE141",
+            "name": "Principles of Electrical Engineering",
+            "credit_hours": 3,
+            "semester": 3,
+            "category": "core"
+        },
+        {
+            "code": "ELE142",
+            "name": "Elements of Semiconductors",
+            "credit_hours": 3,
+            "semester": 3,
+            "category": "core"
+        },
+        {
+            "code": "GEN101",
+            "name": "Social Issues",
+            "credit_hours": 1,
+            "semester": 3,
+            "category": "core"
+        },
+        {
+            "code": "ELE152",
+            "name": "Logic Circuits",
+            "credit_hours": 3,
+            "semester": 3,
+            "category": "core"
+        },
+        {
+            "code": "ELE151",
+            "name": "Structure Programming",
+            "credit_hours": 3,
+            "semester": 3,
+            "category": "core"
+        },
+        {
+            "code": "BAS111",
+            "name": "Numerical Analysis",
+            "credit_hours": 3,
+            "semester": 4,
+            "category": "core"
+        },
+        {
+            "code": "ELE145",
+            "name": "Signals & Systems",
+            "credit_hours": 3,
+            "semester": 4,
+            "category": "core"
+        },
+        {
+            "code": "ELE143",
+            "name": "Electrical Circuits",
+            "credit_hours": 3,
+            "semester": 4,
+            "category": "core"
+        },
+        {
+            "code": "ELE144",
+            "name": "Electronic Circuits (1)",
+            "credit_hours": 3,
+            "semester": 4,
+            "category": "core"
+        },
+        {
+            "code": "ELE153",
+            "name": "Object Oriented Programming",
+            "credit_hours": 3,
+            "semester": 4,
+            "category": "core"
+        },
+        {
+            "code": "ELE252",
+            "name": "Information Security",
+            "credit_hours": 3,
+            "semester": 5,
+            "category": "core"
+        },
+        {
+            "code": "BAS211",
+            "name": "Complex Analysis & Transformations",
+            "credit_hours": 3,
+            "semester": 5,
+            "category": "core"
+        },
+        {
+            "code": "ELE242",
+            "name": "Electromagnetic Fields",
+            "credit_hours": 3,
+            "semester": 5,
+            "category": "core"
+        },
+        {
+            "code": "ELE241",
+            "name": "Electronic Circuits (2)",
+            "credit_hours": 3,
+            "semester": 5,
+            "category": "core"
+        },
+        {
+            "code": "ELE251",
+            "name": "Computer Organization",
+            "credit_hours": 3,
+            "semester": 5,
+            "category": "core"
+        },
+        {
+            "code": "BAS210",
+            "name": "Probability & Statistics",
+            "credit_hours": 3,
+            "semester": 6,
+            "category": "core"
+        },
+        {
+            "code": "ELE245",
+            "name": "Electrical Measurement & Instrumentation",
+            "credit_hours": 3,
+            "semester": 6,
+            "category": "core"
+        },
+        {
+            "code": "ELE243",
+            "name": "Analog Communication Systems",
+            "credit_hours": 3,
+            "semester": 6,
+            "category": "core"
+        },
+        {
+            "code": "ELE244",
+            "name": "Digital Signal Processing",
+            "credit_hours": 3,
+            "semester": 6,
+            "category": "core"
+        },
+        {
+            "code": "ELE253",
+            "name": "Data Structure & Algorithms",
+            "credit_hours": 3,
+            "semester": 6,
+            "category": "core"
+        },
+        {
+            "code": "GEN201",
+            "name": "Professional Ethics",
+            "credit_hours": 1,
+            "semester": 6,
+            "category": "core"
+        },
+        {
+            "code": "ELE201",
+            "name": "Field Training (1)",
+            "credit_hours": 1,
+            "semester": 6,
+            "category": "summer",
+            "note": "After 60 credit hours"
+        },
+        {
+            "code": "ELE341",
+            "name": "Digital Communication Systems",
+            "credit_hours": 3,
+            "semester": 7,
+            "category": "core"
+        },
+        {
+            "code": "ELE354",
+            "name": "Artificial Intelligence Systems",
+            "credit_hours": 3,
+            "semester": 7,
+            "category": "core"
+        },
+        {
+            "code": "ELE352",
+            "name": "Operating Systems",
+            "credit_hours": 3,
+            "semester": 7,
+            "category": "core"
+        },
+        {
+            "code": "ELE353",
+            "name": "Database Design",
+            "credit_hours": 3,
+            "semester": 7,
+            "category": "core"
+        },
+        {
+            "code": "ELE342",
+            "name": "Mobile Communication",
+            "credit_hours": 3,
+            "semester": 8,
+            "category": "core"
+        },
+        {
+            "code": "ELE351",
+            "name": "Embedded Systems & IoT",
+            "credit_hours": 2,
+            "semester": 8,
+            "category": "core"
+        },
+        {
+            "code": "ELE301",
+            "name": "Field Training (2)",
+            "credit_hours": 1,
+            "semester": 8,
+            "category": "summer",
+            "note": "After 90 credit hours"
+        },
+        {
+            "code": "ELE441",
+            "name": "Data Communication & Networking",
+            "credit_hours": 3,
+            "semester": 9,
+            "category": "core"
+        },
+        {
+            "code": "ELE442",
+            "name": "Robotic Systems",
+            "credit_hours": 3,
+            "semester": 9,
+            "category": "core"
+        },
+        {
+            "code": "ELE401",
+            "name": "Graduation Project (1)",
+            "credit_hours": 2,
+            "semester": 9,
+            "category": "core",
+            "note": "After 110 credit hours"
+        },
+        {
+            "code": "ELE443",
+            "name": "Information Theory and Coding",
+            "credit_hours": 3,
+            "semester": 10,
+            "category": "core"
+        },
+        {
+            "code": "ELE444",
+            "name": "Selective Topics in Communication and Computer Engineering",
+            "credit_hours": 3,
+            "semester": 10,
+            "category": "core"
+        },
+        {
+            "code": "ELE445",
+            "name": "System Analysis & Design",
+            "credit_hours": 3,
+            "semester": 10,
+            "category": "core"
+        },
+        {
+            "code": "ELE402",
+            "name": "Graduation Project (2)",
+            "credit_hours": 2,
+            "semester": 10,
+            "category": "core"
+        }
+    ],
+    "elective_slots": [
+        {
+            "slot_id": "UNIV_ELECTIVE_SEM4",
+            "name": "University Elective Slot",
+            "credit_hours": 2,
+            "semester": 4,
+            "category": "university_elective"
+        },
+        {
+            "slot_id": "UNIV_ELECTIVE_SEM5",
+            "name": "University Elective Slot",
+            "credit_hours": 2,
+            "semester": 5,
+            "category": "university_elective"
+        },
+        {
+            "slot_id": "UNIV_ELECTIVE_SEM7",
+            "name": "University Elective Slot",
+            "credit_hours": 2,
+            "semester": 7,
+            "category": "university_elective"
+        },
+        {
+            "slot_id": "UNIV_ELECTIVE_SEM8",
+            "name": "University Elective Slot",
+            "credit_hours": 2,
+            "semester": 8,
+            "category": "university_elective"
+        },
+        {
+            "slot_id": "SPECIALIZED_ELECTIVE_1_SEM7",
+            "name": "Specialized Elective (1) from List 1",
+            "credit_hours": 3,
+            "semester": 7,
+            "category": "specialized_elective_list_1"
+        },
+        {
+            "slot_id": "SPECIALIZED_ELECTIVE_2_SEM8",
+            "name": "Specialized Elective (2) from List 1",
+            "credit_hours": 3,
+            "semester": 8,
+            "category": "specialized_elective_list_1"
+        },
+        {
+            "slot_id": "SPECIALIZED_ELECTIVE_3_SEM8",
+            "name": "Specialized Elective (3) from List 1",
+            "credit_hours": 3,
+            "semester": 8,
+            "category": "specialized_elective_list_1"
+        },
+        {
+            "slot_id": "SPECIALIZED_ELECTIVE_4_SEM8",
+            "name": "Specialized Elective (4) from List 1",
+            "credit_hours": 3,
+            "semester": 8,
+            "category": "specialized_elective_list_1"
+        },
+        {
+            "slot_id": "SPECIALIZED_ELECTIVE_5_SEM9",
+            "name": "Specialized Elective (5) from List 2",
+            "credit_hours": 2,
+            "semester": 9,
+            "category": "specialized_elective_list_2"
+        },
+        {
+            "slot_id": "SPECIALIZED_ELECTIVE_6_SEM9",
+            "name": "Specialized Elective (6) from List 2",
+            "credit_hours": 2,
+            "semester": 9,
+            "category": "specialized_elective_list_2"
+        },
+        {
+            "slot_id": "SPECIALIZED_ELECTIVE_7_SEM10",
+            "name": "Specialized Elective (7) from List 2",
+            "credit_hours": 2,
+            "semester": 10,
+            "category": "specialized_elective_list_2"
+        }
+    ],
+    "university_electives": [
+        {
+            "code": "GEN900",
+            "name": "Principles of Entrepreneurship and Project Management",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN901",
+            "name": "Communication and Presentation Skills",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN902",
+            "name": "Leadership skills",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN903",
+            "name": "Human Resources Management",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN904",
+            "name": "History of Science, Engineering and Technology",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN905",
+            "name": "Skills Thinking",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN906",
+            "name": "Occupational Psychology",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN907",
+            "name": "Introduction to Economics and Accounting",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN908",
+            "name": "Report Writing Skills",
+            "credit_hours": 2,
+            "category": "university_elective"
+        },
+        {
+            "code": "GEN909",
+            "name": "Legislations, Contract and Procurement Management",
+            "credit_hours": 2,
+            "category": "university_elective"
+        }
+    ],
+    "specialized_electives_list_1": [
+        {
+            "code": "ELE343",
+            "name": "Electromagnetic Waves",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        },
+        {
+            "code": "ELE344",
+            "name": "Antennas and Waves Propagation",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        },
+        {
+            "code": "ELE345",
+            "name": "Satellite Communication Systems",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        },
+        {
+            "code": "ELE346",
+            "name": "Microwave Engineering",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        },
+        {
+            "code": "ELE355",
+            "name": "Computer Architecture",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        },
+        {
+            "code": "ELE356",
+            "name": "Compilers",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        },
+        {
+            "code": "ELE357",
+            "name": "Machine Learning Algorithms",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        },
+        {
+            "code": "ELE358",
+            "name": "Cryptography and Network Security",
+            "credit_hours": 3,
+            "category": "specialized_elective_list_1",
+            "elective_list": 1
+        }
+    ],
+    "specialized_electives_list_2": [
+        {
+            "code": "ELE480",
+            "name": "Optical Communication Systems",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE481",
+            "name": "Digital Control Systems",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE482",
+            "name": "Acoustic Engineering",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE483",
+            "name": "Adaptive Signal Processing",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE484",
+            "name": "Advanced Topics in wireless Communication",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE485",
+            "name": "Radar Engineering",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE486",
+            "name": "Modern networks",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE487",
+            "name": "RF Engineering",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE488",
+            "name": "Modeling and Simulations",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE489",
+            "name": "Neural Networks and Deep Learning",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE490",
+            "name": "Computer Graphics",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE491",
+            "name": "Computer Vision",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE492",
+            "name": "Parallel and Distributed Systems",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE493",
+            "name": "Data Mining",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE494",
+            "name": "Mobile Computing",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE495",
+            "name": "Big Data Analysis",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE496",
+            "name": "Web Development",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE497",
+            "name": "Digital Image Processing",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE498",
+            "name": "Microprocessor",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        },
+        {
+            "code": "ELE499",
+            "name": "Digital Systems Design",
+            "credit_hours": 2,
+            "category": "specialized_elective_list_2",
+            "elective_list": 2
+        }
+    ]
+}
